@@ -1,6 +1,7 @@
 from __future__ import print_function
 import sys
 
+
 def hello(what):
     print('Hello, {}!'.format(what))
 
